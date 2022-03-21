@@ -1,0 +1,79 @@
+#Pokedex{
+  position: fixed;
+  width: 800px;
+  height: 600px;
+  left: 300px;
+  bottom: 100px;
+  top: 30px;  
+} 
+
+#Titulo{
+  position: fixed;
+  left: 890px;
+  width: 380px;
+  bottom: 500px;
+}
+
+#searchPokemon{
+  position: fixed;
+  width: 90px;
+  left: 790px;
+  bottom: 60px;
+}
+
+#clearPokemon{
+  position: fixed;
+  width: 80px;
+  left: 940px;
+  bottom: 60px;
+}
+
+#pokemonName{
+  position: fixed;
+    left: 380px;
+    bottom: 68px; 
+    width: 100px; 
+    background-color: yellow;
+    padding: 24px;
+    border-radius: 10px;
+}
+img{
+  position: fixed;
+  left: 450px;
+  bottom: 350px;
+}
+
+h2{
+position: fixed;
+left: 388px;
+bottom: 300px;
+font-size: 20px;
+}
+h3{
+position: fixed;
+left: 388px;
+bottom: 280px;
+}
+
+.pokemonData .container .pokemonStatsContainer {
+  position: fixed;
+  display: grid;
+  grid-template-columns: 105px 80px 110px ;  
+  left: 760px;
+  bottom: 310px;
+  place-items: center;
+  width: 50px;
+  color: rgb(14, 17, 219);
+}
+
+
+
+body{
+  background-image: url("./images/Fondo2.jpg"); 
+ 
+}
+
+
+
+
+
